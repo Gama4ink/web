@@ -1,0 +1,19 @@
+{
+  "name": "page_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gama4ink/web.git"
+  },
+  "author": "gama4ink <gama4ink@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gama4ink/web/issues"
+  },
+  "homepage": "https://github.com/Gama4ink/web#readme"
+}
